@@ -26,28 +26,28 @@ The workspace is laid out as follows:
 
 ## Quickstart
 
-1. **Create virtual environment
+1. Create virtual environment
 ```bash
 python -m venv venv
 ```
 
-2. **Activate virtual environment
-   ***On Windows:
+2. Activate virtual environment
+   - On Windows:
   ```bash
   venv\Scripts\activate
 ```
-  ***On macOS/Linux:
+   - On macOS/Linux:
 ```bash
   source venv/bin/activate
 ```
 
-3. **Install dependencies
+3. Install dependencies
 ```bash
 pip install -r requirements.txt
 ```
 
-4. **Activate your webcam
+4. Activate your webcam
 
-5. **Launch Assistant
+5. Launch Assistant
 python src/main.py
 ```
