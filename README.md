@@ -49,5 +49,6 @@ pip install -r requirements.txt
 4. Activate your webcam
 
 5. Launch Assistant
+```bash
 python src/main.py
 ```
