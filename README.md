@@ -35,11 +35,11 @@ python -m venv venv
    - On Windows:
   ```bash
   venv\Scripts\activate
-```
+  ```
    - On macOS/Linux:
-```bash
+   ```bash
   source venv/bin/activate
-```
+   ```
 
 3. Install dependencies
 ```bash
