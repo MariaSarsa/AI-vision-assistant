@@ -1,5 +1,7 @@
 # AI-VISION-ASSISTANT
 
+(IN PROGRESS)
+
 A simple project made to merge computer vision mechanics with local AI, to learn how to create a camera assistant for spatial reasoning.
 
 By combining **Microsoft Florence-2** for visual perception and **Microsoft Phi-3** for natural language reasoning, this system answers questions about scenes from the computer webcam in real time.
